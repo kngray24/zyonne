@@ -1,0 +1,6 @@
+
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+header { background: #005f73; color: white; padding: 1em; }
+nav a { margin-right: 1em; color: white; text-decoration: none; }
+.hero { padding: 2em; background: #94d2bd; text-align: center; }
+footer { text-align: center; padding: 1em; background: #001219; color: #f0efeb; }
